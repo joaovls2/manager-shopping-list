@@ -6,15 +6,15 @@ Os itens da lista são armazenados em memória durante a execução e podem ser 
 
 ---
 
-## ✨ Funcionalidades
+## ⚙ Funcionalidades
 
-- ➕ Adicionar itens à lista de compras
-- ❌ Remover itens existentes
-- ✏️ Atualizar o nome de um item
-- 📋 Listar todos os itens
-- 🗑️ Limpar toda a lista
-- 💾 Salvar a lista em um arquivo `.txt`
-- 📂 Carregar automaticamente a lista salva ao iniciar o programa
+- Adicionar itens à lista de compras
+- Remover itens existentes
+- Atualizar o nome de um item
+- Listar todos os itens
+- Limpar toda a lista
+- Salvar a lista em um arquivo `.txt`
+- Carregar automaticamente a lista salva ao iniciar o programa
 
 ---
 
